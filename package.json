@@ -7,13 +7,17 @@
   "author": "Ajit <me@ajitkumar.dev>",
   "license": "MIT",
   "dependencies": {
-    "html-tag-js": "^1.1.41"
+    "html-tag-js": "^1.1.41",
+    "jsongraph-react": "^0.0.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.23.0",
-    "@babel/core": "^7.23.2",
+    "@babel/core": "^7.25.2",
     "@babel/plugin-transform-runtime": "^7.23.2",
-    "@babel/preset-env": "^7.23.2",
+    "@babel/preset-env": "^7.25.4",
+    "@babel/preset-react": "^7.24.7",
     "babel-loader": "^9.1.3",
     "jszip": "^3.10.1",
     "live-server": "^1.2.2",
